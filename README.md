@@ -1,11 +1,12 @@
 # About Me
-20-year-old Computer Science student at the Technical University of Graz with a focus on backend engineering.
+**20-year-old Computer Science student at the Technical University of Graz**  
+Focused on **backend engineering**
 
-Primarily working with C and C++, with some experience in other languages and technologies listed below.
+Primarily working with **C and C++**, with additional experience in other languages and technologies listed below.
 
-I enjoy solving technical problems and building projects that strengthen my understanding of software development.
+I focus on solving technical problems and building projects that improve my understanding of software engineering principles.
 
-Most of my projects are available on GitHub, while some repositories remain private for personal or experimental work.
+Most of my work is available on GitHub, with selected repositories kept private for personal and experimental development.
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patrick.s199) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/patrick_s199) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024.svg?logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/28631175/patrick)
