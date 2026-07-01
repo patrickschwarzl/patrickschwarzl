@@ -1,12 +1,10 @@
 # About Me
-**20-year-old Computer Science student at the Technical University of Graz**
-Strong focus on backend engineering.
+20-year-old Computer Science student at the Technical University of Graz, focused on backend engineering.
 
-Primarily working with **C and C++**, with additional experience in other languages and technologies listed below.
+Primarily working with C and C++, with additional experience in other languages and technologies listed below.  
+Focus on solving technical problems and building projects that improve understanding of software engineering principles.
 
-Focus on solving technical problems and building projects that improve my understanding of software engineering principles.
-
-Open to part-time software engineering or backend development roles in Austria (Graz / Styria) or remote.
+Open to part-time software engineering or backend development roles in Graz / Styria (Austria) or remote.
 
 Most of my work is available on GitHub, with selected repositories kept private for personal and experimental development.
 
